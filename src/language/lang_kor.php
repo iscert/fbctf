@@ -6,13 +6,13 @@ $translations = array(
     'H:i:s D m/d/Y', //used by date() function
   //Translations for IndexController
   'Facebook CTF' =>
-    'Facebook CTF',
+    'Invisible Shield CTF',
   'Conquer the world' =>
-    'Conquer the world',
+    'Invisible Shield CTF',
   'Play' =>
     '플레이',
   'Welcome to the Facebook Capture the Flag Competition. By clicking "Play," you will be entered into the official CTF challenge. Good luck in your conquest.' =>
-    '페이스북 Capture The Flag Competiion에 오신 것을 환영합니다. 플레이 버튼을 누르시면 CTF 대회에 입장 할 수 있습니다. 행운을 빌겠습니다! ',
+    'Invisible Shield 해킹대회에 오신것을 환영합니다. 플레이 버튼을 누르시면 CTF 대회에 입장 할 수 있습니다. 행운을 빌겠습니다! ',
   'Get ready for the CTF to start and access the gameboard now!' =>
     '게임보드에 입장해주세요!',
   'Gameboard' =>
@@ -24,9 +24,11 @@ $translations = array(
   'Login' =>
     '로그인',
   'Soon' =>
-    '곧',
+    '곧 대회가 시작됩니다!',
   'Upcoming Game' =>
-    '다가오는 게임',
+    '진행 상황',
+  'IN PROGRESS' =>
+    '게임 진행중',
   '_days' =>
     '_일',
   '_hours' =>
@@ -62,11 +64,11 @@ $translations = array(
   'DoSing the CTF platform or any of the challenges is forbidden.' =>
     'CTF플랫폼에 DOS공격 행위를 금지합니다.',
   'Legal' =>
-    '법률',
+    '대회 자격',
   'Disclaimer' =>
-    '포기성명서',
+    '전북대 재학생',
   'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.' =>
-    '이벤트에 참여함으로써, 귀하는 Facebook과 그 직원들, 그리고 대회와 관련하여 지속될 수 있는 부상, 손해 또는 재산에 대한 모든 종류의 책임, 청구 또는 행동으로부터 주최 조직을 방출하는 것에 동의합니다. 귀하는 Facebook 등이 기술, 하드웨어 또는 소프트웨어 장애 또는 콘테스트와 관련하여 발생할 수 있는 기타 오류나 문제에 대해 책임을 지지 않는다는 것을 인정하고 동의합니다.',
+    '부정행위가 적발되었을 경우 수상 대상자에서 제외됩니다.',
   'If you have any questions about what is or is not allowed, please ask an organizer.' =>
     '규칙에 대한 더 자세한 질문이 있는 경우 관리자에게 문의해주세요.',
   'Have fun!' =>
@@ -649,15 +651,15 @@ $translations = array(
   'Tool_Bars' =>
     '툴바',
   'Tap the "Game Clock" to keep track of time during gameplay. Don’t let time get the best of you.' =>
-    '게임 시작을 기록하려면 Game Clock을 누르세요.',
+    '남은 시각을 확인하려면 Game Clock을 클릭하세요.',
   'Game_Clock' =>
     'Game_Clock',
   'Countries marked with an ' =>
     ' 표시된 나라들 ',
   'are captured by you.' =>
-    'are captured by you.',
+    '해결한 문제들',
   ' are owned by others.' =>
-    ' are owned by others.',
+    ' 해결하지 못 한 문제들.',
   'Captures' =>
     '정복',
   'Tap Plus[+] to Zoom In. Tap Minus[-] to Zoom Out.' =>
@@ -677,7 +679,7 @@ $translations = array(
   'Have fun, be the best and conquer the world.' =>
     '세계를 정복하세요!',
   'Game_On' =>
-    '게임_온',
+    '게임_On',
   'tutorial_' =>
     '튜로리얼_',
   'Next' =>
