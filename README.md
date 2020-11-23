@@ -47,4 +47,4 @@ Check out the [wiki pages](https://github.com/facebook/fbctf/wiki) attached to t
 This source code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license. View the license [here](https://github.com/facebook/fbctf/blob/master/LICENSE).
 
 
-hijunho0811에서 수정되었습니다. iscert에서 충돌유돟
+iscert에서 수정되었습니다. hijunho0811이 충돌유도
