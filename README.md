@@ -46,4 +46,3 @@ Check out the [wiki pages](https://github.com/facebook/fbctf/wiki) attached to t
 
 This source code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license. View the license [here](https://github.com/facebook/fbctf/blob/master/LICENSE).
 
-
