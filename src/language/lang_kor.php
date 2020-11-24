@@ -28,7 +28,7 @@ $translations = array(
   'Upcoming Game' =>
     '진행 상황',
   'IN PROGRESS' =>
-    '게임 진행중',
+    '대회 진행중',
   '_days' =>
     '_일',
   '_hours' =>
@@ -46,11 +46,11 @@ $translations = array(
   'Cooperation' =>
     '협력',
   'No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.' =>
-    '다른과의 협력과 힌트 공유를 절대적으로 금지합니다. ',
+    '다른 팀과의 협력과 힌트 공유를 절대적으로 금지합니다. ',
   'Attacking Scoreboard' =>
     '스코어보드 공격',
   'No attacking the competition infrastructure. If bugs or vulns are found, please alert the competition organizers immediately.' =>
-    '경재 상대 인프라를 공격하는 행동을 금지합니다. 버그를 발견하면 관리자에게 문의해주세요.',
+    '경쟁 상대 인프라를 공격하는 행동을 금지합니다. 버그를 발견하면 관리자에게 문의해주세요.',
   'Sabotage' =>
     '방해',
   'Absolutely no sabotaging of other competing teams, or in any way hindering their independent progress.' =>
@@ -108,9 +108,9 @@ $translations = array(
   'Team Login' =>
     '팀 로그인',
   'Please login here. If you have not registered, you may do so by clicking "Sign Up" below. ' =>
-    '여기서 로그인 해주세요. 등록하지 않은경우 등록버튼을 클릭하여 주세요.',
+    '여기서 로그인 해주세요. 등록하지 않은경우 등록버튼을 클릭하여 등록해주세요.',
   'Team Login will be open soon, stay tuned!' =>
-    '팀 로그인이 곧 시작됩니다.',
+    '곧 팀 로그인이 됩니다, 기다려주세요!',
   'ERROR' =>
     '에러',
   'Start Over' =>
@@ -550,11 +550,11 @@ $translations = array(
     'Extracting',
   //Translations for Utils.php's time_ago() function
   'just now' =>
-    'just now',
+    '지금',
   'd' =>
     '일', //day
   'hr' =>
-    '시작하기', //hour
+    '시', //hour
   'min' =>
     '분', //minute
   'sec' =>
