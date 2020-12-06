@@ -16,7 +16,7 @@ FBCTF는 Jeopardy game과 "King of the Hill"기반 형식의 깃발 뺏기 경�
 * 참가자들이 팀을 등록합니다.
 * 즐기시면 됩니다!
 
-더 많은 정보를 원한다면 [관리자 가이드](https://github.com/iscert/fbctf/wiki/Admin-Guide)
+더 많은 정보를 원한다면 [관리자 가이드](https://github.com/iscert/fbctf/wiki/관리자 가이드)
 
 # 설치법
 
