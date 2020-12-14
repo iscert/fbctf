@@ -22,7 +22,7 @@ FBCTF는 Jeopardy game과 "King of the Hill"기반 형식의 깃발 뺏기 경�
 
 FBCTF 플랫폼은 최종 사용자들의 요구에 따른 다양한 변경을 통한 사용을 허용하고 있습니다. FBCTF 플랫폼은 개발 모드나 생산 모드로도 설치할 수 있습니다.
 
-[빠른 설치 가이드](http:s//github.com/iscert/fbctf/wiki/빠른-설치-가이드)(_권장 설치법_)
+[빠른 설치 가이드](https://github.com/iscert/fbctf/wiki/빠른-설치-가이드)(_권장 설치법_)
 
 [빠른 설치 가이드](https://github.com/iscert/fbctf/wiki/빠른-설치-가이드)는 효율적이고 일관적이지만 사용자 지정 설치에 비해서 유연성이 떨어집니다. 만약 사용자 지정 설치를 선호하신다면, [개발 설치 가이드](https://github.com/iscert/fbctf/wiki/설치가이드,-개발) 또는 [생산 설치 가이드](https://github.com/iscert/fbctf/wiki/설치가이드,-생산)를 봐주십시오..
 
