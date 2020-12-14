@@ -1,3 +1,4 @@
+[ [English](README.md) | [한국어](README.ko.md) ]
 # FBCTF [![Build Status](https://travis-ci.org/facebook/fbctf.svg)](https://travis-ci.org/facebook/fbctf)
 
 ## What is FBCTF?
