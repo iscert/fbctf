@@ -11,7 +11,7 @@ FBCTF는 Jeopardy game과 "King of the Hill"기반 형식의 깃발 뺏기 경�
 ## FBCTF 사용법
 
 * 최소 2팀 이상이 등록했을 때 사용 가능합니다. 참가자들은 온라인, 오프라인 어떤 형태의 구성이든 상관없습니다.
-* 아래의 지침을 따라서 대회 환경을 구축해주세요.
+* 아래의 지침에 따라 대회 환경을 구축해주세요.
 * 관리자 페이지에서 문제들을 등록해주세요.
 * 참가자들이 팀을 등록합니다.
 * 즐기시면 됩니다!
@@ -24,7 +24,7 @@ FBCTF 플랫폼은 최종 사용자들의 요구에 따른 다양한 변경을 �
 
 [빠른 설치 가이드](https://github.com/iscert/fbctf/wiki/빠른-설치-가이드)(_권장 설치법_)
 
-[빠른 설치 가이드](https://github.com/iscert/fbctf/wiki/빠른-설치-가이드)는 효율적이고 일관적이지만 사용자 지정 설치에 비해서 유연성이 떨어집니다. 만약 사용자 지정 설치를 선호하신다면, [개발 설치 가이드](https://github.com/iscert/fbctf/wiki/설치가이드,-개발) 또는 [생산 설치 가이드](https://github.com/iscert/fbctf/wiki/설치가이드,-생산)를 봐주십시오..
+[빠른 설치 가이드](https://github.com/iscert/fbctf/wiki/빠른-설치-가이드)는 효율적이고 일관적이지만 사용자 지정 설치에 비해서 유연성이 떨어집니다. 만약 사용자 지정 설치를 선호하신다면, [개발 설치 가이드](https://github.com/iscert/fbctf/wiki/설치가이드,-개발) 또는 [생산 설치 가이드](https://github.com/iscert/fbctf/wiki/설치가이드,-생산)를 봐주십시오.
 
 ## 이슈 보고
 
@@ -34,9 +34,9 @@ FBCTF 플랫폼은 최종 사용자들의 요구에 따른 다양한 변경을 �
 
 ## 더 궁금하신 부분이 있나요?
 
-여기를 확인해주세요. [위키](https://github.com/iscert/fbctf/wiki) 
+추가적인 안내는 위키를 확인해주세요. [위키](https://github.com/iscert/fbctf/wiki) Slack 커뮤니티에서 질문을 할 수 있습니다. [Slack](https://fbctf-slack.herokuapp.com/)
 
 ## 라이선스
 
-해당 소스코드는 Creative Commons Attribution-NonCommercial 4.0 International license를 참고하여 만들었습니다. 라이선스를 보고 싶다면 [여기](https://github.com/iscert/fbctf/blob/master/LICENSE)를 클릭해주세요.
+해당 소스코드는 Creative Commons Attribution-NonCommercial 4.0 International license에 따라 라이선스 되었습니다. 라이선스를 확인하려면 [여기](https://github.com/iscert/fbctf/blob/master/LICENSE)를 클릭해주세요.
 
